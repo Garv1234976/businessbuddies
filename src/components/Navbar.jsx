@@ -14,7 +14,7 @@ function Navbar() {
 
         <ul className="hidden md:flex items-center gap-2 bg-slate-100 p-2 rounded-full">
           {[
-            { name: "Home", path: "/homepage" },
+            // { name: "Home", path: "/homepage" },
             { name: "About", path: "/about" },
             { name: "Career", path: "/career" },
             { name: "Courses", path: "/courses" },
