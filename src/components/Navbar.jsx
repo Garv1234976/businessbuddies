@@ -5,7 +5,7 @@ function Navbar() {
     <nav className="sticky top-0 z-50 bg-white/70 backdrop-blur-xl border-b border-slate-200">
       <div className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
         <NavLink
-          to="/homepage"
+          to="/"
           className="relative text-lg font-extrabold tracking-wide text-indigo-700"
         >
           BUSINESS BUDDIES
@@ -14,7 +14,7 @@ function Navbar() {
 
         <ul className="hidden md:flex items-center gap-2 bg-slate-100 p-2 rounded-full">
           {[
-            // { name: "Home", path: "/homepage" },
+            { name: "Home", path: "/" },
             { name: "About", path: "/about" },
             { name: "Career", path: "/career" },
             { name: "Courses", path: "/courses" },
