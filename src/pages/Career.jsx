@@ -4,8 +4,7 @@ function Career() {
       <section className="bg-gradient-to-br from-indigo-700 via-indigo-600 to-violet-600 text-white py-28">
         <div className="max-w-6xl mx-auto px-6 text-center fade-up">
           <h1 className="text-4xl md:text-5xl font-extrabold mb-4">
-            Careers at Business Buddies and new line for test
-            dfjdfjhdjfhdjf
+            Careers at Business Buddies
           </h1>
           <p className="text-lg md:text-xl text-indigo-100 max-w-3xl mx-auto">
             Join our team and help individuals and businesses learn, grow, and
